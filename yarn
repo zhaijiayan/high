@@ -1,0 +1,5 @@
+yarn install
+
+
+node -v
+npm install -g yarn
